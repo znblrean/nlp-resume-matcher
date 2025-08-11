@@ -1,0 +1,3 @@
+venv/
+*.tar.gz
+en_core_web_lg/
