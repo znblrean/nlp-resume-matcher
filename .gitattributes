@@ -1,0 +1,2 @@
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+venv/lib/python*/site-packages/en_core_web_lg/** filter=lfs diff=lfs merge=lfs -text
